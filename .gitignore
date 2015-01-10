@@ -1,0 +1,11 @@
+bin/Release/LogTracer.dll
+bin/Release/LogTracer.pdb
+bin/Release/TimConverter.exe
+bin/Release/TimConverter.pdb
+bin/Release/metin2_patch_e1.xml
+bin/Release/test.txt
+obj/Release/DesignTimeResolveAssemblyReferencesInput.cache
+obj/Release/TimConverter.csproj.FileListAbsolute.txt
+obj/Release/TimConverter.csprojResolveAssemblyReference.cache
+obj/Release/TimConverter.exe
+obj/Release/TimConverter.pdb
