@@ -12,9 +12,18 @@ namespace TimConverter
         {
             Console.Title = string.Format("Tim Converter by JachuPL v{0}", System.Reflection.Assembly.GetExecutingAssembly().GetName().Version);
 
+            if (args.Length == 0)
+            {
+                Manager.Instance.ShowNoSyntaxInfo();
+                goto exit;
+            }
+            
             /// Argument parsing \\\
-            
-            
+            Arg.Instance.ProcessArgumentList(args);
+            Manager.Instance.Load();
+            Manager.Instance.Save();
+            Console.WriteLine("Press any key to exit...");
+exit:
             Console.ReadKey();
         }
     }

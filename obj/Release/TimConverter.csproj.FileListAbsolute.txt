@@ -1,6 +1,0 @@
-C:\Users\Jan\Dropbox\Projekty\VB2008\Metin2Tools\TimConverter\bin\Release\TimConverter.exe.config
-C:\Users\Jan\Dropbox\Projekty\VB2008\Metin2Tools\TimConverter\bin\Release\TimConverter.exe
-C:\Users\Jan\Dropbox\Projekty\VB2008\Metin2Tools\TimConverter\bin\Release\TimConverter.pdb
-C:\Users\Jan\Dropbox\Projekty\VB2008\Metin2Tools\TimConverter\obj\Release\TimConverter.csprojResolveAssemblyReference.cache
-C:\Users\Jan\Dropbox\Projekty\VB2008\Metin2Tools\TimConverter\obj\Release\TimConverter.exe
-C:\Users\Jan\Dropbox\Projekty\VB2008\Metin2Tools\TimConverter\obj\Release\TimConverter.pdb
