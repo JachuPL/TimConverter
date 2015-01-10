@@ -14,6 +14,8 @@ timconv.exe [-v] -f file1.xml|file2.xml|file3.xml|file4.xml [-o temp.txt]
 
 where:
 -v - script effects are shown on command line
+
 -f file1.xml|file2.xml|file3.xml|file4.xml - passes file names to convert. Remember, there's no need to place | on the beginning or ending of file list!
+
 -o temp.txt - script output will be saved in temp.txt
 
